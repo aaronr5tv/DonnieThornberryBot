@@ -1,0 +1,17 @@
+{
+  "name": "donnie-thornberry-bot",
+  "version": "1.0.0",
+  "description": "Funny discord bot to troll your friends.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaronr5",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.3.0"
+  }
+}
